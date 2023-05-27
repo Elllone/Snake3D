@@ -1,0 +1,17 @@
+{
+  "name": "Snake3D",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.152.2"
+  }
+}
